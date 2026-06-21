@@ -14,5 +14,6 @@ __pycache__/
 # Virtual environment
 venv/
 env/
-media/
+media/*
+!media/default.jpg
 staticfiles/
