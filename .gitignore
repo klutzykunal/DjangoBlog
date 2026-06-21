@@ -16,4 +16,5 @@ venv/
 env/
 media/*
 !media/default.jpg
-staticfiles/
+staticfiles/*
+!staticfiles/.gitkeep
