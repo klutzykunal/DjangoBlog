@@ -47,14 +47,14 @@ INSTALLED_APPS = [
     "users.apps.UsersConfig" ,
     "crispy_forms" ,
     "crispy_bootstrap5" ,
-    "cloudinary" ,
-    "cloudinary_storage" ,
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "cloudinary" ,
+    "cloudinary_storage" ,
 ]
 
 CLOUDINARY_STORAGE = {
